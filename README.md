@@ -1,1 +1,1 @@
-# SQL-Proficiency-
+# SQL-foundation
